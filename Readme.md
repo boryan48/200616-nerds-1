@@ -1,43 +1,24 @@
-# Личный проект «Нёрдс»
+# EditorConfig for Brackets
 
-* Студент: [Максим Борисов](https://up.htmlacademy.ru/htmlcss/15/user/200616).
-* Наставник: `Отсутстует`.
+> [EditorConfig](http://editorconfig.org) helps developers maintain consistent coding styles between different editors.
 
----
+Based on @MiguelCastillo's [Brackets-wsSanitizer](https://github.com/MiguelCastillo/Brackets-wsSanitizer) and utilizing [EditorConfig JavaScript Core](https://github.com/editorconfig/editorconfig-core-js) library.
 
-_Не удаляйте и не обращайте внимание на файлы:_<br>
-_`.editorconfig`, `.gitignore`, `Contributing.md`, `Readme.md`._
+## Supported properties
 
----
+- root
+- indent_style
+- indent_size
+- trim_trailing_whitespace
+- insert_final_newline
 
-### Памятка
 
-#### 1. Зарегистрируйтесь на Гитхабе
+## Features
 
-Если у вас ещё нет аккаунта на [github.com](https://github.com/join), скорее зарегистрируйтесь.
+- Applies the above settings from your `.editorconfig` file
+- Syntax highlights `.editorconfig` files
 
-#### 2. Создайте форк
 
-[Откройте мастер-репозиторий](https://github.com/htmlacademy-htmlcss/200616-nerds) и нажмите кнопку «Fork» в правом верхнем углу. Репозиторий из Академии скопируется в ваш аккаунт.
+## License
 
-<img width="769" alt="" src="https://cloud.githubusercontent.com/assets/10909/12391938/5b3183f8-bdfc-11e5-888b-fa74dcf4d829.jpg">
-
-Получится вот так:
-
-<img width="769" alt="" src="https://cloud.githubusercontent.com/assets/10909/12391937/5b2fc266-bdfc-11e5-811d-dc5e1057ad87.jpg">
-
-#### 3. Клонируйте репозиторий на свой компьютер
-
-Будьте внимательны: нужно клонировать свой репозиторий (форк), а не репозиторий Академии. Нажмите кнопку с иконкой компьютера и стрелкой, чтобы клонировать репозиторий через программу [GitHub Desktop](https://desktop.github.com):
-
-<img width="769" alt="" src="https://cloud.githubusercontent.com/assets/10909/12391902/17d49924-bdfc-11e5-8864-05fbcbddbb90.jpg">
-
-Программа клонирует репозиторий на ваш компьютер и подготовит всё необходимое для старта работы.
-
-#### 4. Начинайте обучение!
-
----
-
-<a href="https://htmlacademy.ru/intensive/htmlcss"><img align="left" width="50" height="50" alt="HTML Academy" src="https://up.htmlacademy.ru/static/img/intensive/htmlcss/logo-for-github.svg"></a>
-
-Репозиторий создан для обучения на интенсивном онлайн‑курсе «[Базовый HTML и CSS](https://htmlacademy.ru/intensive/htmlcss)» от [HTML Academy](https://htmlacademy.ru).
+[MIT](http://opensource.org/licenses/MIT) © [Chen-Heng Chang](http://kidwm.net)
